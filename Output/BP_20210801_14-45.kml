@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="10">
+            <IconStyle id="11">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="12">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="13">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="16">
+            <IconStyle id="17">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="18">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="19">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="22">
+            <IconStyle id="23">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="28">
+            <IconStyle id="29">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="30">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="31">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="37">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="40">
+            <IconStyle id="41">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="42">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="43">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="46">
+            <IconStyle id="47">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="48">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="49">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="52">
+            <IconStyle id="53">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="54">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="55">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="58">
+            <IconStyle id="59">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="60">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="61">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="67">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="70">
+            <IconStyle id="71">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="72">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="73">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="76">
+            <IconStyle id="77">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="78">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="79">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="82">
+            <IconStyle id="83">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="85">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="88">
+            <IconStyle id="89">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="90">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="91">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="97">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="100">
+            <IconStyle id="101">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="102">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="103">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="106">
+            <IconStyle id="107">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="109">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="112">
+            <IconStyle id="113">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="114">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="115">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="118">
+            <IconStyle id="119">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="120">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="121">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="127">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="130">
+            <IconStyle id="131">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="133">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="136">
+            <IconStyle id="137">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="138">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="139">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="142">
+            <IconStyle id="143">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="144">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="145">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="148">
+            <IconStyle id="149">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="150">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="151">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="157">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="160">
+            <IconStyle id="161">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="162">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="163">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="166">
+            <IconStyle id="167">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="168">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="169">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="172">
+            <IconStyle id="173">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="174">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="175">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="178">
+            <IconStyle id="179">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="180">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="181">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="187">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="190">
+            <IconStyle id="191">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="192">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="193">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="196">
+            <IconStyle id="197">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="198">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="199">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="202">
+            <IconStyle id="203">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="204">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="205">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="208">
+            <IconStyle id="209">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="210">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="211">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="214">
+            <IconStyle id="215">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="216">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="217">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="220">
+            <IconStyle id="221">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="222">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="223">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="226">
+            <IconStyle id="227">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="228">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="229">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="232">
+            <IconStyle id="233">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="234">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="235">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="238">
+            <IconStyle id="239">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="240">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="241">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="244">
+            <IconStyle id="245">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="246">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="247">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="250">
+            <IconStyle id="251">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="252">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="253">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="256">
+            <IconStyle id="257">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="258">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="259">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="262">
+            <IconStyle id="263">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="264">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="265">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="268">
+            <IconStyle id="269">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="270">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="271">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="274">
+            <IconStyle id="275">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="276">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="277">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="280">
+            <IconStyle id="281">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="282">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="283">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="286">
+            <IconStyle id="287">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="288">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="289">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="292">
+            <IconStyle id="293">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="294">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="295">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="298">
+            <IconStyle id="299">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="300">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="301">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="304">
+            <IconStyle id="305">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="306">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="307">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="310">
+            <IconStyle id="311">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="312">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="313">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="316">
+            <IconStyle id="317">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="318">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="319">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="322">
+            <IconStyle id="323">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="324">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="325">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="328">
+            <IconStyle id="329">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="330">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="331">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="334">
+            <IconStyle id="335">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="336">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="337">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="340">
+            <IconStyle id="341">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="342">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="343">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="346">
+            <IconStyle id="347">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="348">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="349">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="352">
+            <IconStyle id="353">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="354">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="355">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="358">
+            <IconStyle id="359">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="360">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="361">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="364">
+            <IconStyle id="365">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="366">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="367">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="370">
+            <IconStyle id="371">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="372">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="373">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="376">
+            <IconStyle id="377">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="378">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="379">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="382">
+            <IconStyle id="383">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="384">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="385">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="388">
+            <IconStyle id="389">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="390">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="391">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="394">
+            <IconStyle id="395">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="396">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="397">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="400">
+            <IconStyle id="401">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="402">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="403">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="406">
+            <IconStyle id="407">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="408">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="409">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="412">
+            <IconStyle id="413">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="414">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="415">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="418">
+            <IconStyle id="419">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="420">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="421">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="424">
+            <IconStyle id="425">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="426">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="427">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="430">
+            <IconStyle id="431">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="432">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="433">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="436">
+            <IconStyle id="437">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="438">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="439">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="442">
+            <IconStyle id="443">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="444">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="445">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="448">
+            <IconStyle id="449">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="450">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="451">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="454">
+            <IconStyle id="455">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="456">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="457">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="460">
+            <IconStyle id="461">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="462">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="463">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="466">
+            <IconStyle id="467">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="468">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="469">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="472">
+            <IconStyle id="473">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="474">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="475">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="478">
+            <IconStyle id="479">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="480">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="481">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="484">
+            <IconStyle id="485">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="486">
+                    <href>C:\Users\Ve\Documents\GitHub\Baltic-Petroleum-gas-stations-geolocator\Input\BP.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="487">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <open>1</open>
+        <Placemark id="3">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Alytus Santaikos g. 33 
+telefono nr.: 
++370 315 22430 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-22</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>24.033262,54.3867325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Anykščiai Mindaugo g. 23 
+telefono nr.: 
++370 381 58611
+
+degalinės darbo laikas:
+06-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#10</styleUrl>
+            <Point id="8">
+                <coordinates>25.0971824,55.5088625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Biržų r. Valantiškio , 
+telefono nr.: 
++370 450 37975 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-24</description>
+            <styleUrl>#16</styleUrl>
+            <Point id="14">
+                <coordinates>24.7055322,56.1962067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Druskininkai Gardino g. 79
+telefono nr.: 
++370 313 52305 
+
+degalinės darbo laikas:
+06-24
+parduotuvės darbo laikas:
+07-23</description>
+            <styleUrl>#22</styleUrl>
+            <Point id="20">
+                <coordinates>23.9879266,53.9998174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Druskininkai Leipalingio g. 26 
+telefono nr.: 
++370 313 45610 
+
+degalinės darbo laikas:
+07-23
+parduotuvės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 07-23</description>
+            <styleUrl>#28</styleUrl>
+            <Point id="26">
+                <coordinates>23.9851024,54.0294466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Druskininkų r. Leipalingis Merkinės g. 37
+telefono nr.: 
++370 313 43672 
+
+degalinės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 07-23
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>24.0075624,54.0269781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Jonavos r. Spanėnų ,  Plento g. 46 
+telefono nr.: 
++370 349 53809 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-22, VI-VII ir š.d. 07-21</description>
+            <styleUrl>#40</styleUrl>
+            <Point id="38">
+                <coordinates>24.276469,55.06360410000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Jonavos r. Šilų sen. Gudžionių ,  Plento g. 24 
+telefono nr.: 
++370 349 69188 
+
+degalinės darbo laikas:
+I-V 06-22, VI-VII ir š.d. 07-21
+parduotuvės darbo laikas:
+00-24 </description>
+            <styleUrl>#46</styleUrl>
+            <Point id="44">
+                <coordinates>24.2783336,55.06448589999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Jurbarkas Muitinės g. 22A
+telefono nr.: 
++370 447 79018
+
+degalinės darbo laikas:
+00-24 
+parduotuvės darbo laikas:
+06-24</description>
+            <styleUrl>#52</styleUrl>
+            <Point id="50">
+                <coordinates>22.7449223,55.07822059999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaišiadorių r. Triliškių ,  Kauno pl. 5 
+telefono nr.: 
++370 346 67065 
+
+degalinės darbo laikas:
+06-24
+parduotuvės darbo laikas:
+00-24 </description>
+            <styleUrl>#58</styleUrl>
+            <Point id="56">
+                <coordinates>24.4548249,54.8152619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaunas Chemijos g. 6
+telefono nr.: 
++370 37 454825
+
+degalinės darbo laikas:
+00-24 
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>23.982499,54.902377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaunas Jonavos g. 60A
+telefono nr.: 
++370 37 338672
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#70</styleUrl>
+            <Point id="68">
+                <coordinates>23.8995411,54.905052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaunas Minkovskių g. 132
+telefono nr.: 
++370 37 390115 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-22</description>
+            <styleUrl>#76</styleUrl>
+            <Point id="74">
+                <coordinates>23.9118079,54.885725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaunas Raudondvario g. 82
+telefono nr.: 
++370 37 328066 
+
+degalinės darbo laikas:
+06-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#82</styleUrl>
+            <Point id="80">
+                <coordinates>23.8741006,54.907729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaunas Taikos pr. 120
+telefono nr.: 
++370 37 373305 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#88</styleUrl>
+            <Point id="86">
+                <coordinates>24.0348469,54.91739459999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kaunas Vaidoto g. 153 
+telefono nr.: 
++370 37 408416 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>23.9585515,54.8612964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kauno r. Garliavos sen. Pagirių ,   Marijampolės g. 1 
+telefono nr.: 
++370 37 338674
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-24</description>
+            <styleUrl>#100</styleUrl>
+            <Point id="98">
+                <coordinates>23.8733101,54.81548129999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kauno r. Vilkijos sen. Jaučiakių ,  
+telefono nr.: 
++370 37 556429 
+
+degalinės darbo laikas:
+06-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#106</styleUrl>
+            <Point id="104">
+                <coordinates>23.6074399,55.0295549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Klaipėda Liepų g. 79A
+telefono nr.: 
++370 464 32855
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#112</styleUrl>
+            <Point id="110">
+                <coordinates>21.15264,55.72052670000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Klaipėda Šilutės pl. 1
+telefono nr.: 
++370 46 300645
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#118</styleUrl>
+            <Point id="116">
+                <coordinates>21.1633733,55.7048549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kėdainiai J. Basanavičiaus g. 95B 
+telefono nr.: 
++ 370 347 68510
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-21, VI, VII ir š.d. 07-19</description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>23.9559502,55.2768731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Lazdijai Turistų g. 88
+telefono nr.: 
++370 318 50764
+
+degalinės darbo laikas:
+I-V 06-21, VI, VII ir š.d. 07-19
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#130</styleUrl>
+            <Point id="128">
+                <coordinates>23.508907,54.2206832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Marijampolė P. Armino g. 69
+telefono nr.: 
++370 343 94106 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 07-23, VI-VII ir š.d. 09-22</description>
+            <styleUrl>#136</styleUrl>
+            <Point id="134">
+                <coordinates>23.3532989,54.5338234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Marijampolė Vasaros g. 15 
+telefono nr.: 
++370 343 20996
+
+degalinės darbo laikas:
+I-V 07-23, VI-VII ir š.d. 09-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#142</styleUrl>
+            <Point id="140">
+                <coordinates>23.3750838,54.5546879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Marijampolės r. Adomiškių , 
+telefono nr.: 
++370 343 68023 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-21 VI-VII š.d. 07-19</description>
+            <styleUrl>#148</styleUrl>
+            <Point id="146">
+                <coordinates>23.3626146,54.5553929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Marijampolės r. Pasiekų ,  
+telefono nr.: 
++370 343 92888 
+
+degalinės darbo laikas:
+I-V 06-21 VI-VII š.d. 07-19
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>23.3751358,54.5556899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Mažeikiai M. Daukšos g. 17 
+telefono nr.: 
++370 443 25239
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-22, VI-VII ir š.d. 07-22</description>
+            <styleUrl>#160</styleUrl>
+            <Point id="158">
+                <coordinates>22.3509145,56.30505890000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Mažeikių r. Užežerės ,  Gardenio g. 39
+telefono nr.: 
++370 443 46381 
+
+degalinės darbo laikas:
+I-V 06-22, VI-VII ir š.d. 07-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#166</styleUrl>
+            <Point id="164">
+                <coordinates>22.095866,56.1632169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Molėtai Vilniaus g.104
+telefono nr.: 
++370 383 51104 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-21, VI-VII ir š.d.07-20</description>
+            <styleUrl>#172</styleUrl>
+            <Point id="170">
+                <coordinates>25.4030593,55.2164903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+N. Akmenė V. Kudirkos g. 21A
+telefono nr.: 
++370 425 56044 
+
+degalinės darbo laikas:
+I-V 06-21, VI-VII ir š.d.07-20
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#178</styleUrl>
+            <Point id="176">
+                <coordinates>22.8855881,56.3184464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Neringa Nidos-Smiltynės pl. 6
+telefono nr.: 
++370 687 45080 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 07-21, VI-VII ir š.d. 07-20</description>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>20.9800935,55.30074699999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Pakruojis Statybininkų g. 28
+telefono nr.: 
++370 421 52313 
+
+degalinės darbo laikas:
+I-V 07-21, VI-VII ir š.d. 07-20
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#190</styleUrl>
+            <Point id="188">
+                <coordinates>23.8663291,55.9755267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Palanga Ganyklų g. 28C
+telefono nr.: 
++370 460 53479
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-23</description>
+            <styleUrl>#196</styleUrl>
+            <Point id="194">
+                <coordinates>21.0751993,55.92324259999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Palanga Klaipėdos pl. 44
+telefono nr.: 
++370 460 40376
+
+degalinės darbo laikas:
+06-23
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#202</styleUrl>
+            <Point id="200">
+                <coordinates>21.0782749,55.9154746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Panevėžys Smėlynės g. 169
+telefono nr.: 
++370 455 75080 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#208</styleUrl>
+            <Point id="206">
+                <coordinates>24.367127,55.757786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Panevėžys Velžio kelias 74
+telefono nr.: 
++370 45 578461
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#214</styleUrl>
+            <Point id="212">
+                <coordinates>24.3921057,55.7214616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Pasvalio r. Aukštikalnio ,  Mūšos g. 19
+telefono nr.: 
++370 52 163377
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-23</description>
+            <styleUrl>#220</styleUrl>
+            <Point id="218">
+                <coordinates>24.4065544,56.07093330000001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Plungės r. Plateliai Ž. Kalvarijos g. 1A
+telefono nr.: 
++370 448 49447 
+
+degalinės darbo laikas:
+06-23
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#226</styleUrl>
+            <Point id="224">
+                <coordinates>22.0494843,56.1526647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Priekulė Klaipėdos g. 61
+telefono nr.: 
++370 46 300196 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-VI 06-22,VII ir š.d. 07-21</description>
+            <styleUrl>#232</styleUrl>
+            <Point id="230">
+                <coordinates>21.3088257,55.5620267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Prienai Vilniaus g. 3A 
+telefono nr.: 
++370 319 60341 
+
+degalinės darbo laikas:
+I-VI 06-22,VII ir š.d. 07-21
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#238</styleUrl>
+            <Point id="236">
+                <coordinates>23.9583681,54.6283743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Prienų r. Veiverių ,  
+telefono nr.: 
++370 319 68120 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#244</styleUrl>
+            <Point id="242">
+                <coordinates>23.72312,54.765577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Radviliškio r. Užuovėjos , 
+telefono nr.: 
++370 422 60015 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#250</styleUrl>
+            <Point id="248">
+                <coordinates>23.5893554,55.80444199999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Radviliškis Miško g. 64
+telefono nr.: 
++370 42 260496 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#256</styleUrl>
+            <Point id="254">
+                <coordinates>23.5657023,55.8007406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Radviliškis Šiaulių g. 1A 
+telefono nr.: 
++370 42 244324 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#262</styleUrl>
+            <Point id="260">
+                <coordinates>23.5232653,55.8257724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Raseiniai Vilniaus g. 30
+telefono nr.: 
++370 428 70029 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 07-22</description>
+            <styleUrl>#268</styleUrl>
+            <Point id="266">
+                <coordinates>23.1331654,55.3708256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Raseinių r. Kalnujų sen. Kalnujų ,  1
+telefono nr.: 
++370 42847772 
+
+degalinės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 07-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#274</styleUrl>
+            <Point id="272">
+                <coordinates>23.0959239,55.3271179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Rokiškio r. Pandėlio ,  Elektrinės g. 1
+telefono nr.: 
++370 458 71650
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 06-22</description>
+            <styleUrl>#280</styleUrl>
+            <Point id="278">
+                <coordinates>25.2321938,56.02837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Telšiai Šiaulių pl. 12 
+telefono nr.: 
++370 444 60364 
+
+degalinės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 06-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#286</styleUrl>
+            <Point id="284">
+                <coordinates>22.2455228,56.00423019999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Telšių r. Varnių sen. Ožtakių ,  Dariaus ir Girėno g. 77
+telefono nr.: 
++370 444 69003
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-20, VI-VII ir š.d. 07- 20</description>
+            <styleUrl>#292</styleUrl>
+            <Point id="290">
+                <coordinates>22.3762719,55.73107959999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Trakai Vilniaus g. 33 
+telefono nr.: 
++370 528 53882 
+
+degalinės darbo laikas:
+I-V 06-20, VI-VII ir š.d. 07- 20
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#298</styleUrl>
+            <Point id="296">
+                <coordinates>24.9486816,54.6273559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Ukmergė Kauno g. 49 
+telefono nr.: 
++370 340 60097 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#304</styleUrl>
+            <Point id="302">
+                <coordinates>24.7395098,55.2408071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Utena Basanavičiaus g. 1B
+telefono nr.: 
++370 389 61909
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#310</styleUrl>
+            <Point id="308">
+                <coordinates>25.5750056,55.495279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Varėna Čiurlionio g. 63
+telefono nr.: 
++370 310 31368 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-23</description>
+            <styleUrl>#316</styleUrl>
+            <Point id="314">
+                <coordinates>24.5661769,54.2181199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Varėnos r. Merkinė Vilniaus g. 87 
+telefono nr.: 
++370 310 53677 
+
+degalinės darbo laikas:
+06-23
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#322</styleUrl>
+            <Point id="320">
+                <coordinates>24.2077858,54.16912749999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Varėnos r. Senoji Varėna Vilniaus g. 6A 
+telefono nr.: 
++370 310 48959
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#328</styleUrl>
+            <Point id="326">
+                <coordinates>24.5480659,54.249074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilniaus r. Nemenčinės sen. Vilkaraisčio ,  
+telefono nr.: 
++370 5 2477075 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#334</styleUrl>
+            <Point id="332">
+                <coordinates>25.4942549,54.8634819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Antakalnio g. 128 
+telefono nr.: 
++370 52 472249 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-21, V-VII ir š.d. 07-20</description>
+            <styleUrl>#340</styleUrl>
+            <Point id="338">
+                <coordinates>25.317188,54.7222248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Gerosios Vilties g. 33 
+telefono nr.: 
++370 5 2104379 
+
+degalinės darbo laikas:
+I-V 06-21, V-VII ir š.d. 07-20
+parduotuvės darbo laikas:
+00-24 </description>
+            <styleUrl>#346</styleUrl>
+            <Point id="344">
+                <coordinates>25.2508748,54.6668378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Kalvarijų g. 161A 
+telefono nr.: 
++370 5 2761347 
+
+degalinės darbo laikas:
+00-24 
+parduotuvės darbo laikas:
+06-23</description>
+            <styleUrl>#352</styleUrl>
+            <Point id="350">
+                <coordinates>25.2822542,54.7239775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Metalo g. 4B 
+telefono nr.: 
++370 5 2159270
+
+degalinės darbo laikas:
+06-23
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#358</styleUrl>
+            <Point id="356">
+                <coordinates>25.2675203,54.6404933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Molėtų pl. 27A
+telefono nr.: 
++370 5 2697520 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+</description>
+            <styleUrl>#364</styleUrl>
+            <Point id="362">
+                <coordinates>25.272395,54.767666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Rinktinės g. 59 
+telefono nr.: 
++370 5 2102256 
+
+degalinės darbo laikas:
+
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#370</styleUrl>
+            <Point id="368">
+                <coordinates>25.2881205,54.70287889999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius S. Batoro g. 15
+telefono nr.: 
++370 5 2303009
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-VI 06-24, VI-VII ir š.d. 07-23</description>
+            <styleUrl>#376</styleUrl>
+            <Point id="374">
+                <coordinates>25.3794461,54.69269749999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Savanorių pr. 121
+telefono nr.: 
++370 5 2360155 
+
+degalinės darbo laikas:
+I-VI 06-24, VI-VII ir š.d. 07-23
+parduotuvės darbo laikas:
+00-24 </description>
+            <styleUrl>#382</styleUrl>
+            <Point id="380">
+                <coordinates>25.2335272,54.6608207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Šakiai Sodų g. 1 
+telefono nr.: 
++370 34 560451
+
+degalinės darbo laikas:
+00-24 
+parduotuvės darbo laikas:
+I-VII ir š.d. 07-18</description>
+            <styleUrl>#388</styleUrl>
+            <Point id="386">
+                <coordinates>23.0461411,54.9457783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Šalčininkai Vilniaus g. 5A 
+telefono nr.: 
++370 380 51147
+
+degalinės darbo laikas:
+I-VII ir š.d. 07-18
+parduotuvės darbo laikas:
+00-24 </description>
+            <styleUrl>#394</styleUrl>
+            <Point id="392">
+                <coordinates>25.3810817,54.3179767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Šilalė Rytinio Kelio g. 2
+telefono nr.: 
++370 44 970015 
+
+degalinės darbo laikas:
+00-24 
+parduotuvės darbo laikas:
+06-24</description>
+            <styleUrl>#400</styleUrl>
+            <Point id="398">
+                <coordinates>22.199754,55.48958289999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Šilutė Klaipėdos g. 4A
+telefono nr.: 
++370 441 61877 
+
+degalinės darbo laikas:
+06-24
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#406</styleUrl>
+            <Point id="404">
+                <coordinates>21.463244,55.3531328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Širvintos Musninkų g. 21 
+telefono nr.: 
++370 382 31011
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-22, VI-VII ir š.d. 07-21</description>
+            <styleUrl>#412</styleUrl>
+            <Point id="410">
+                <coordinates>24.9668855,55.0319419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Rietavas Dariaus ir Girėno g. 19
+telefono nr.: 
++370 448 54616
+
+degalinės darbo laikas:
+I-V 06-22, VI-VII ir š.d. 07-21
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#418</styleUrl>
+            <Point id="416">
+                <coordinates>21.9281257,55.7194777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Jonava Žemaitės g. 1
+telefono nr.: 
++37061677394
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 06-22</description>
+            <styleUrl>#424</styleUrl>
+            <Point id="422">
+                <coordinates>24.2717493,55.0824683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilniaus r. Užubalių ,  Senasis Ukmergės kelias 4
+telefono nr.: 
++370 5 240 34 51
+
+degalinės darbo laikas:
+I-V 06-23, VI-VII ir š.d. 06-22
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#430</styleUrl>
+            <Point id="428">
+                <coordinates>25.195826,54.7685273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Šakių r. Griškabūdis
+telefono nr.: 
++370 641 27492
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+07.30 - 16.00</description>
+            <styleUrl>#436</styleUrl>
+            <Point id="434">
+                <coordinates>23.16881,54.851202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilnius Brazdžionio g. 2
+telefono nr.: 
++370 61269080
+
+degalinės darbo laikas:
+07.30 - 16.00
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#442</styleUrl>
+            <Point id="440">
+                <coordinates>25.2796514,54.6871555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Alytaus r. Likiškėlių , 
+telefono nr.: 
++370 685 22760 
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+I-V 06-20, VI-VII ir š.d. 08-19</description>
+            <styleUrl>#448</styleUrl>
+            <Point id="446">
+                <coordinates>23.973816,54.387742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Rokiškis Respublikos 113B
+telefono nr.: 
++370 458 71276
+
+degalinės darbo laikas:
+I-V 06-20, VI-VII ir š.d. 08-19
+parduotuvės darbo laikas:
+00-24 </description>
+            <styleUrl>#454</styleUrl>
+            <Point id="452">
+                <coordinates>25.5912334,55.951969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Anykščiai Vienuolio g. 34a
+telefono nr.: 
++370 381 50750
+
+degalinės darbo laikas:
+00-24 
+parduotuvės darbo laikas:
+06-23</description>
+            <styleUrl>#460</styleUrl>
+            <Point id="458">
+                <coordinates>25.0884486,55.5228003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Šiauliai Kupiškio g. 4 
+telefono nr.: 
++370 658 36563 
+
+degalinės darbo laikas:
+06-23
+parduotuvės darbo laikas:
+00-24</description>
+            <styleUrl>#466</styleUrl>
+            <Point id="464">
+                <coordinates>23.3145637,55.9567913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Joniškis Vilniaus g. 72
+telefono nr.: 
++370 626 74607
+
+degalinės darbo laikas:
+00-24
+parduotuvės darbo laikas:
+06-01</description>
+            <styleUrl>#472</styleUrl>
+            <Point id="470">
+                <coordinates>23.5976426,56.2233494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Vilniaus r. Šatrininkų sen. Grigaičiai Pavilnės g.
+telefono nr.: 
++370 638 37481
+
+degalinės darbo laikas:
+06-01
+parduotuvės darbo laikas:
+06-22</description>
+            <styleUrl>#478</styleUrl>
+            <Point id="476">
+                <coordinates>25.4113705,54.6807805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>Baltic Petroleum</name>
+            <description>adresas: 
+Kauno r. sav. Ringaudų sen. Ringaudų ,  Gėlių g. 1A
+telefono nr.: 
++370 659 75317
+
+degalinės darbo laikas:
+06-22
+parduotuvės darbo laikas:
+I-V 06-23, VI-VII š.d.07-22</description>
+            <styleUrl>#484</styleUrl>
+            <Point id="482">
+                <coordinates>23.8026799,54.8891295,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
