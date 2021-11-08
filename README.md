@@ -1,7 +1,7 @@
 # Baltic-Petroleum-gas-stations-geolocator
  Tool for getting geographic locations of "Baltic Petroleum" gas stations and shops from official website and saving dataset as KML file for later use.  
  
- <img src="/images/thumbnail.png" width="500"/>
+ <img src="/images/thumbnail.webp" width="500"/>
  
  Data source - official Baltic Petroleum website: https://balticpetroleum.lt/baltic-petroleum-degalines 
  
